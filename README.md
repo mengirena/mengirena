@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <p align="right">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mengirena&show_icons=true&locale=en&layout=compact" alt="mengirena" /></p>
 -->
-<h3 align="left">👉🏽 Connect with me to talk about anything 🙌:</h3>
+<h3 align="left">👉🏽 Connect with me 🙌:</h3>
 
 &emsp;&emsp;&emsp;<a href="https://twitter.com/irenachen9" target="blank"><img align="center" src="http://i.imgur.com/wWzX9uB.png" alt="irenachen9"/></a>&emsp;
 <a href="mailto:irena1009@gmail.com" target="blank"><img align="center" src="https://i.imgur.com/vltiL8c.png" alt="irenachen9"/></a>
