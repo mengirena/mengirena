@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Irena, a slashy here! 🎉 </h1>
+<h1 align="center">Irena, a slashie here! 🎉 </h1>
 
 <pre>
 <h3 align="center">I enjoy life full of varieties.</h3>
