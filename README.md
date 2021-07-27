@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">I enjoy life full of varieties.</h3>
 <h4 align="center"> Hence, I'm currently a passionate fullstack developer</h4>
 <h4 align="center"> a technological translator</h4>
-<!-- <h4 align="center"> a blogger</h4> -->
-<h4 align="center"> a business operation flow consultant. </h4>
+<h4 align="center"> a business operation flow consultant. </h4> <!-- <h4 align="center"> a blogger</h4> -->
 
 <h4 align="center">In my free time, I do yoga 🧘🏻‍♀️and try out creative new receipes to improve my cooking skill 👩🏻‍🍳.</h4>
 
